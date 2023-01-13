@@ -1,6 +1,6 @@
 # Nigeria states and lga with dynamic dropdown and search 🚀🚀
 
-### [Please do well to follow me on my Media Accounts => Twitter: [Twitter](https://twitter.com/jaykosai), [Instagram](https://www.instagram.com/wizdev_/)
+### [Please do well to follow me on my Media Accounts => Twitter: [Twitter](https://twitter.com/WizDev_), [Instagram](https://www.instagram.com/wizdev_/)
 
 ![image](https://github.com/WisdomAyo/Nigeria-states-and-lga-with-dynamic-dropdown/blob/master/Screenshot%202023-01-13%20193142.png)
 
